@@ -79,44 +79,68 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 1.PLACEMENT DATA
+
+
 ![image](https://github.com/user-attachments/assets/3229c970-0943-4cd1-ad27-d6aebfdd7057)
 
 
 2.SALARY DATA:
+
+
 ![image](https://github.com/user-attachments/assets/c365312b-6507-4c8d-b193-a33151f78159)
 
 
 3.CHECKING THE NULL() FUNCTION:
+
+
 ![image](https://github.com/user-attachments/assets/87f63f19-896a-44d3-b3a4-7e61eb0d8cca)
 
 
 4.DATA DUPLICATE:
+
+
 ![image](https://github.com/user-attachments/assets/c458f119-e55a-49e6-9687-a9bce5bd03fe)
 
 
 5.PRINT DATA:
+
+
 ![image](https://github.com/user-attachments/assets/732b5005-84e2-4a66-a4a7-9925c7732d20)
 
 
 6.DATA STATUS:
+
+
 ![image](https://github.com/user-attachments/assets/a1b827c8-9281-447f-bf6f-54c1760d6498)
+
+
 ![image](https://github.com/user-attachments/assets/6be6bd53-c338-473b-bb02-9dd23f043e98)
 
 
 7.Y_PREDICATION ARRAY:
+
+
 ![image](https://github.com/user-attachments/assets/4ebc89fc-51c7-4a4b-8f5a-69dda9c2dc50)
 
 
 8.ACCURACY VALUE:
+
+
 ![image](https://github.com/user-attachments/assets/6db44496-f768-4e24-93a9-c97f77318191)
 
 
 9.CONFUSION ARRAY:
+
+
 ![image](https://github.com/user-attachments/assets/f6ffef7d-2ded-4a23-a5e2-3d2bf092de7f)
+
+
 ![image](https://github.com/user-attachments/assets/6a85a147-51b0-449c-b7c5-6b435269ad3c)
 
 
 10.CLASSIFICATION REPORT:
+
+
 ![image](https://github.com/user-attachments/assets/37ba3487-d8a8-416b-b764-95e7e952a9ed)
 
 
